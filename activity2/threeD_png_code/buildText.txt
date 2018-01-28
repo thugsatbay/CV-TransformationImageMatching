@@ -1,0 +1,1 @@
+g++ -Wextra -O3 -o hello_Lab /Users/walterstevenbabcock/Desktop/A2Visioncopy/a2.cpp /Users/walterstevenbabcock/Desktop/A2Vision/sift.cpp -O2 -lm -lpthread -I/usr/X11R6/include -L/usr/X11R6/lib -lm -lpthread -lX11 -Dcimg_use_png -lpng -ljpeg

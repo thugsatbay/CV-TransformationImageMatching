@@ -1,0 +1,19 @@
+CImg.h --- CImg library provided by Prof. David
+
+constants.h --- Has all constants, hyperparameters defined in the file to be used in the application
+
+ImageInterpolation.h --- Code for Bicubic interpolation
+
+ImageMatching.h --- Code For Part1 to match images
+
+ImageRANSAC.h --- Code For Part2 to find homography matrix
+
+ImageTransform.h --- Code For Part3 To find projection of image onto base image plane using homography matrix
+
+matrix.h --- Basic Matrix functions determinant, inverse, multiplication; used wikipedia to find the pseudo code
+
+Sift.h --- CImg library provided by Prof. David
+
+a2.cpp --- General Function and code for Part2 Speed Up Matching
+
+gdhody-wsbabcoc-ramrao
